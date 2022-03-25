@@ -1,0 +1,16 @@
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\bin\Debug\netcoreapp3.1\Act1-SimpleCalculator.exe
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\bin\Debug\netcoreapp3.1\Act1-SimpleCalculator.deps.json
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\bin\Debug\netcoreapp3.1\Act1-SimpleCalculator.runtimeconfig.json
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\bin\Debug\netcoreapp3.1\Act1-SimpleCalculator.runtimeconfig.dev.json
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\bin\Debug\netcoreapp3.1\Act1-SimpleCalculator.dll
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\bin\Debug\netcoreapp3.1\Act1-SimpleCalculator.pdb
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\obj\Debug\netcoreapp3.1\Act1-SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\obj\Debug\netcoreapp3.1\Act1-SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\obj\Debug\netcoreapp3.1\Act1-SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\obj\Debug\netcoreapp3.1\Act1-SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\obj\Debug\netcoreapp3.1\Act1-SimpleCalculator.AssemblyInfo.cs
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\obj\Debug\netcoreapp3.1\Act1-SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\obj\Debug\netcoreapp3.1\Act1-SimpleCalculator.dll
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\obj\Debug\netcoreapp3.1\Act1-SimpleCalculator.pdb
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\obj\Debug\netcoreapp3.1\Act1-SimpleCalculator.genruntimeconfig.cache
+C:\Users\emman\OneDrive - PAMBAYANG DALUBHASAAN NG MARILAO\Documents\C# App\Act1-SimpleCalculator\Act1-SimpleCalculator\obj\Debug\netcoreapp3.1\Act1_SimpleCalculator.frmCal.resources
